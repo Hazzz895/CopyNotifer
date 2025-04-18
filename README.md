@@ -1,7 +1,9 @@
 # CopyNotifer - You can stop spamming CTRL+C now!
 ![0418](https://github.com/user-attachments/assets/034df27c-ad2a-4a21-83e3-82cf54bf6d71)
 
-Yow will notified now whenever you copying anything to the clipboard, so you now can stop spamming CTRL+C.
+## ![🌟 If you find this repository useful, please star it! ](https://img.shields.io/github/stars/Hazzz895/CopyNotifer?style=for-the-badge)
+
+Now you will notified now whenever you copying anything to the clipboard, so you can stop spamming CTRL+C.
 
 ### Download the latest version of CopyNotifer from [releases page](https://github.com/Hazzz895/CopyNotifer/releases).
 
@@ -18,4 +20,4 @@ Adding full editing of notifer (color, size, transparency, etc.)
 ### 4. Localizations
 Adding support of Russian, German, French and other languages.
 
-## 🌟 If you find this repository useful, please star it! 
+
