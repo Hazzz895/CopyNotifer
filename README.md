@@ -17,3 +17,5 @@ Adding full editing of notifer (color, size, transparency, etc.)
 
 ### 4. Localizations
 Adding support of Russian, German, French and other languages.
+
+## 🌟 If you find this repository useful, please star it! 
