@@ -17,7 +17,5 @@ Currently the application triggers directly to changes in the clipboard, it is p
 ### 3. Customization
 Adding full editing of notifer (color, size, transparency, etc.)
 
-### 4. Localizations
-Adding support of Russian, German, French and other languages.
 
 
