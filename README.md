@@ -3,7 +3,7 @@
 
 ## ![🌟 If you find this repository useful, please star it! ](https://img.shields.io/github/stars/Hazzz895/CopyNotifer?style=for-the-badge)
 
-Now you will notified now whenever you copying anything to the clipboard, so you can stop spamming CTRL+C.
+Now you will be notified whenever you copying anything to the clipboard, so you can stop spamming CTRL+C.
 
 ### Download the latest version of CopyNotifer from [releases page](https://github.com/Hazzz895/CopyNotifer/releases).
 
